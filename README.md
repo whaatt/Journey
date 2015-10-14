@@ -2,7 +2,7 @@ Journey To The Motherland
 =========================
 Your Country Never Sounded So Good
 
-## Compilation Instructions
+### Compilation Instructions
 1. Install OpenFrameworks using their platform-specific guides.
 2. Create a new project using the project generator for your platform.
 3. Copy the contents of the `src` folder to your project source folder.
@@ -10,11 +10,12 @@ Your Country Never Sounded So Good
 5. Make sure that the `src/beat` folder is in the compiler search path.
 6. Hit compile and pray to the many gods of cross-platform support.
 
-## TLDR
+### TLDR
 Screenshots are available [here](http://imgur.com/a/nrEah). Suggestions
-or pull requests are greatly welcomed. This was a lot of fun to make.
+or pull requests are greatly welcomed. This was a lot of fun to make
+and I hope that you find it a lot of fun to use.
 
-## Summary
+### Summary
 Most of the features in my program were pretty unintended. This project
 was my first serious foray into computer graphics, so I sort of tinkered
 with stuff until it looked good. Often times, this approach was somewhat
@@ -22,7 +23,7 @@ frustrating, but I think I ended up learning a lot about how to draw the
 things you want to draw. As for the theme of the visualizer, I'll let it
 speak for itself. That was also sort of an accident.
 
-## Disclosure
+### Disclosure
 My roommates Sam Garcia and Cameron Steinfeld helped me judge the
 pot-smokingness of my visualizer as I went through the creative process
-and iterated toward my final product: Journey To The Motherland.
+and journeyed toward the motherland.
