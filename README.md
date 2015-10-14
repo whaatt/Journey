@@ -7,8 +7,9 @@ Your Country Never Sounded So Good
 2. Create a new project using the project generator for your platform.
 3. Copy the contents of the `src` folder to your project source folder.
 4. The tricky part: download and link the FFTW library with your project.
-5. Make sure that the `src/beat` folder is in the compiler search path.
-6. Hit compile and pray to the many gods of cross-platform support.
+5. Check that the FFTW variant is based on single-precision floating point.
+6. Make sure that the `src/beat` folder is in the compiler search path.
+7. Hit compile and pray to the many gods of cross-platform support.
 
 ### TLDR
 Screenshots are available [here](http://imgur.com/a/nrEah). Suggestions
