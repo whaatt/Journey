@@ -25,5 +25,5 @@ speak for itself. That was also sort of an accident.
 
 ### Disclosure
 My roommates Sam Garcia and Cameron Steinfeld helped me judge the
-pot-smokingness of my visualizer as I went through the creative process
+trippyness of my visualizer as I went through the creative process
 and journeyed toward the motherland.
