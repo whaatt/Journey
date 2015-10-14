@@ -13,8 +13,8 @@ Your Country Never Sounded So Good
 
 ### TLDR
 Screenshots are available [here](http://imgur.com/a/nrEah). Suggestions
-or pull requests are greatly welcomed. This was a lot of fun to make
-and I hope that you find it a lot of fun to use.
+or pull requests are very welcome. The portal consists of the waveform
+on the wall, the time-varying FFT as bands, and color accents on beats.
 
 ### Summary
 Most of the features in my program were pretty unintended. This project
