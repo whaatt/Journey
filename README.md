@@ -27,4 +27,5 @@ speak for itself. That was also sort of an accident.
 ### Disclosure
 My roommates Sam Garcia and Cameron Steinfeld helped me judge the
 trippyness of my visualizer as I went through the creative process
-and journeyed toward the motherland.
+and journeyed toward the motherland. Thanks as well to the ofxBeat
+library for providing a beat detection algorithm.
